@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "tjrLQRfwo3GTXc0asmUs5VXRy8Z3Y5joq4R2KcBAHRoNIan1qLgrgRWdjHq3hEhp8AlbAFPrCqhpxLxqpnDnzw==",
+  "success": true,
+  "projectFilePath": "/Users/efeonier/RiderProjects/TodoAPP/TodoAPP.Infrastructure/TodoAPP.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "/Users/efeonier/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
+    "/Users/efeonier/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/2.1.1/microsoft.extensions.dependencyinjection.abstractions.2.1.1.nupkg.sha512",
+    "/Users/efeonier/.nuget/packages/microsoft.identitymodel.logging/6.15.0/microsoft.identitymodel.logging.6.15.0.nupkg.sha512",
+    "/Users/efeonier/.nuget/packages/microsoft.identitymodel.tokens/6.15.0/microsoft.identitymodel.tokens.6.15.0.nupkg.sha512",
+    "/Users/efeonier/.nuget/packages/system.security.cryptography.cng/4.5.0/system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
