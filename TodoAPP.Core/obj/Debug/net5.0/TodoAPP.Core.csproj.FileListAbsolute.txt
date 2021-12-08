@@ -1,0 +1,14 @@
+/Users/efeonier/RiderProjects/TodoAPP/TodoAPP.Core/bin/Debug/net5.0/TodoAPP.Core.deps.json
+/Users/efeonier/RiderProjects/TodoAPP/TodoAPP.Core/bin/Debug/net5.0/TodoAPP.Core.dll
+/Users/efeonier/RiderProjects/TodoAPP/TodoAPP.Core/bin/Debug/net5.0/ref/TodoAPP.Core.dll
+/Users/efeonier/RiderProjects/TodoAPP/TodoAPP.Core/bin/Debug/net5.0/TodoAPP.Core.pdb
+/Users/efeonier/RiderProjects/TodoAPP/TodoAPP.Core/bin/Debug/net5.0/TodoAPP.Infrastructure.dll
+/Users/efeonier/RiderProjects/TodoAPP/TodoAPP.Core/bin/Debug/net5.0/TodoAPP.Infrastructure.pdb
+/Users/efeonier/RiderProjects/TodoAPP/TodoAPP.Core/obj/Debug/net5.0/TodoAPP.Core.csproj.AssemblyReference.cache
+/Users/efeonier/RiderProjects/TodoAPP/TodoAPP.Core/obj/Debug/net5.0/TodoAPP.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/efeonier/RiderProjects/TodoAPP/TodoAPP.Core/obj/Debug/net5.0/TodoAPP.Core.AssemblyInfoInputs.cache
+/Users/efeonier/RiderProjects/TodoAPP/TodoAPP.Core/obj/Debug/net5.0/TodoAPP.Core.AssemblyInfo.cs
+/Users/efeonier/RiderProjects/TodoAPP/TodoAPP.Core/obj/Debug/net5.0/TodoAPP.Core.csproj.CoreCompileInputs.cache
+/Users/efeonier/RiderProjects/TodoAPP/TodoAPP.Core/obj/Debug/net5.0/TodoAPP.Core.dll
+/Users/efeonier/RiderProjects/TodoAPP/TodoAPP.Core/obj/Debug/net5.0/ref/TodoAPP.Core.dll
+/Users/efeonier/RiderProjects/TodoAPP/TodoAPP.Core/obj/Debug/net5.0/TodoAPP.Core.pdb
